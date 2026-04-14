@@ -8,7 +8,14 @@ ALLOWED_MD_PREFIXES = (
     Path("projects/main-submission"),
     Path("projects/experiments"),
     Path("assets"),
+    Path(".github"),
 )
+
+ALLOWED_MD_FILES = {
+    Path("README.md"),
+    Path("AGENTS.md"),
+    Path("CLAUDE.md"),
+}
 
 
 def is_allowed_doc(path: str) -> bool:
@@ -17,6 +24,8 @@ def is_allowed_doc(path: str) -> bool:
         return True
 
     normalized = Path(*p.parts)
+    if normalized in ALLOWED_MD_FILES:
+        return True
     return any(normalized == prefix or prefix in normalized.parents for prefix in ALLOWED_MD_PREFIXES)
 
 
