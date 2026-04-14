@@ -14,6 +14,8 @@
 - Schedule snapshot: `docs/hackathon-schedule.md`
 - Ideas workspace: `docs/ideas-tracks.md`
 - Idea backlog: `docs/idea-backlog.md`
+- Ideas catalog snapshot: `docs/ideas-catalog.md`
+- Judging requirements: `docs/judging-requirements.md`
 
 ## Rules Summary
 
