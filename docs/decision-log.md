@@ -40,3 +40,18 @@ This keeps collaboration clean for a 2-person team and reduces accidental scope 
 - One stable lane for the active submission candidate
 - Parallel experiment lanes without destabilizing `main-submission`
 - Clear admissible-content boundary for all commits
+
+## 2026-04-15 - Offline Hackathon Knowledge Pack
+
+### Decision
+
+Mirror hackathon rules, schedule, resources, and track references into repo docs so the team does not need constant website lookups.
+
+### Why
+
+Centralized in-repo references reduce context switching and keep teammates aligned during implementation.
+
+### Impact
+
+- Added `docs/hackathon-rules.md`, `docs/hackathon-resources.md`, `docs/hackathon-schedule.md`, and `docs/ideas-tracks.md`
+- Expanded `docs/index.md` and `docs/hackathon-brief.md` to link the snapshot set

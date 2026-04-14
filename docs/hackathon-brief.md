@@ -7,6 +7,13 @@
 - Hackathon project board: https://github.com/orgs/open-metadata/projects/107/views/1
 - OpenMetadata repository: https://github.com/open-metadata/OpenMetadata
 
+## Repo Snapshot Docs
+
+- Rules snapshot: `docs/hackathon-rules.md`
+- Resources snapshot: `docs/hackathon-resources.md`
+- Schedule snapshot: `docs/hackathon-schedule.md`
+- Ideas workspace: `docs/ideas-tracks.md`
+
 ## Rules Summary
 
 - **Dates:** Apr 17-26, 2026.
