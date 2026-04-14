@@ -12,6 +12,7 @@
 - **Dates:** Apr 17-26, 2026.
 - **Team size:** up to 4 members.
 - **Theme fit:** build with OpenMetadata for discovery, observability, governance, connectors, developer tooling, or related community workflows.
+- **Issue contribution rule:** for GitHub contribution issues, get the issue assigned to your team before starting implementation work.
 - **Contribution track:** accepted `good-first-issue` PRs in OpenMetadata are eligible for the per-PR reward track.
 - **Submission quality expectation:** judges explicitly evaluate demo clarity, README quality, and overall presentation quality.
 - **FAQ topics to verify before final submit:** eligibility, prior work usage, AI-assistant policy, team changes, support channels.

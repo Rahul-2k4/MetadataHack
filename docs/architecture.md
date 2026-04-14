@@ -1,24 +1,26 @@
-# Submission Architecture (Starter)
+# Architecture
 
-## Goal
+## Problem
 
-Ship a demoable, judged-ready OpenMetadata-integrated project by submission deadline.
+Define one clear metadata pain point (discovery, observability, governance, or developer workflow) with concrete user impact.
 
-## System Boundaries
+## Solution Overview
 
-- **Hackathon app layer:** the feature we are submitting.
-- **OpenMetadata integration layer:** API usage, entity/lineage/quality interactions.
-- **Demo data/setup layer:** reproducible sample environment for judges.
-- **Presentation layer:** README + demo flow aligned to judging criteria.
+Describe the proposed end-to-end approach and how OpenMetadata capabilities are used to solve the problem.
 
-## Initial Technical Assumptions
+## Components
 
-- Keep setup steps short and reproducible.
-- Prefer stable, documented OpenMetadata APIs over fragile internals.
-- Capture one clear problem -> solution -> impact narrative in architecture decisions.
+- Hackathon application/service layer
+- OpenMetadata integration layer (APIs/entities/lineage/quality)
+- Local setup/demo data layer
+- Presentation layer (README, diagrams, demo script)
 
-## Open Questions
+## Data Flow
 
-- Which OpenMetadata entities and APIs are mandatory for the first demo cut?
-- What local setup path gives the fastest judge onboarding?
-- Which non-essential features should be deferred to protect demo reliability?
+Document the primary workflow from input data/user action to metadata operations and visible output in the demo.
+
+## Risks
+
+- Setup complexity impacting judge reproducibility
+- Over-scoped feature set reducing demo reliability
+- Weak evidence mapping between implementation and judging criteria
