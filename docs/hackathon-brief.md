@@ -13,6 +13,7 @@
 - Resources snapshot: `docs/hackathon-resources.md`
 - Schedule snapshot: `docs/hackathon-schedule.md`
 - Ideas workspace: `docs/ideas-tracks.md`
+- Idea backlog: `docs/idea-backlog.md`
 
 ## Rules Summary
 

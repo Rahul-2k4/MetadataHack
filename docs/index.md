@@ -9,6 +9,7 @@ This folder tracks the submission package for **Back to the Metadata (Apr 17-26,
 - [Hackathon Resources](./hackathon-resources.md): setup links, support channels, and official references.
 - [Hackathon Schedule](./hackathon-schedule.md): event timeline with UTC and IST conversions.
 - [Ideas and Tracks](./ideas-tracks.md): track list and team idea template.
+- [Idea Backlog](./idea-backlog.md): candidate ideas and shortlist decisions.
 - [Architecture](./architecture.md): architecture template and evolving technical decisions.
 - [Demo Script](./demo-script.md): short walkthrough script for judging.
 - [Submission Checklist](./submission-checklist.md): pre-submit gate checks.
