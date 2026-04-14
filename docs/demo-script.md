@@ -2,7 +2,7 @@
 
 ## Runtime Target
 
-Target a short, focused demo aligned with the official submission format and judging criteria.
+Target a short, focused demo aligned with judging criteria and any announced submission constraints.
 
 ## Script Outline
 

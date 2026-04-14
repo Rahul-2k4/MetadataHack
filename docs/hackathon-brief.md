@@ -14,10 +14,11 @@
 - **Start boundary:** planning/discussion can happen before kickoff, but coding/design work should begin only after the hackathon starts.
 - **Starter code policy:** templates and starter code are allowed, but submitting an almost-complete existing project with minimal changes is not allowed.
 - **Theme fit:** build with OpenMetadata for discovery, observability, governance, connectors, developer tooling, or related community workflows.
-- **Issue contribution rule:** for GitHub contribution issues, get the issue assigned to your team before starting implementation work.
+- **Issue contribution rule:** for contribution-track issues, assign yourself on GitHub before submitting the PR.
 - **Contribution track:** accepted `good-first-issue` PRs in OpenMetadata are eligible for the per-PR reward track.
 - **Submission quality expectation:** judges explicitly evaluate demo clarity, README quality, and overall presentation quality.
-- **FAQ topics to verify before final submit:** eligibility, prior work usage, AI-assistant policy, team changes, support channels.
+- **AI tool disclosure rule:** if AI tools are used, they must be disclosed in submission materials; non-disclosure can lead to disqualification.
+- **FAQ topics to verify before final submit:** eligibility, prior work usage, team changes, and support channels.
 
 ## Judging Criteria
 
