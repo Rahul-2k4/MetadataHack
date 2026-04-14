@@ -1,6 +1,6 @@
 # MetadataHack
 
-Umbrella repo for BacktotheMetadata 2026.
+Umbrella repo for Back to the Metadata 2026.
 
 ## Structure
 

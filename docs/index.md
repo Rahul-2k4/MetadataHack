@@ -5,7 +5,7 @@ This folder tracks the submission package for **Back to the Metadata (Apr 17-26,
 ## Documents
 
 - [Hackathon Brief](./hackathon-brief.md): official links, rules summary, and judging criteria.
-- [Architecture](./architecture.md): planned system boundaries and technical choices.
+- [Architecture](./architecture.md): architecture template and evolving technical decisions.
 - [Demo Script](./demo-script.md): short walkthrough script for judging.
 - [Submission Checklist](./submission-checklist.md): pre-submit gate checks.
 - [Decision Log](./decision-log.md): key choices and why we made them.

@@ -2,7 +2,7 @@
 
 ## Runtime Target
 
-5-7 minutes total, optimized for judging criteria.
+Target a short, focused demo aligned with the official submission format and judging criteria.
 
 ## Script Outline
 

@@ -4,13 +4,15 @@
 
 - Event landing page: https://www.wemakedevs.org/hackathons/openmetadata
 - Registration/event page: https://luma.com/44wpenld
-- Project ideas board: https://github.com/open-metadata/OpenMetadata/issues
+- Hackathon project board: https://github.com/orgs/open-metadata/projects/107/views/1
 - OpenMetadata repository: https://github.com/open-metadata/OpenMetadata
 
 ## Rules Summary
 
 - **Dates:** Apr 17-26, 2026.
 - **Team size:** up to 4 members.
+- **Start boundary:** planning/discussion can happen before kickoff, but coding/design work should begin only after the hackathon starts.
+- **Starter code policy:** templates and starter code are allowed, but submitting an almost-complete existing project with minimal changes is not allowed.
 - **Theme fit:** build with OpenMetadata for discovery, observability, governance, connectors, developer tooling, or related community workflows.
 - **Issue contribution rule:** for GitHub contribution issues, get the issue assigned to your team before starting implementation work.
 - **Contribution track:** accepted `good-first-issue` PRs in OpenMetadata are eligible for the per-PR reward track.
